@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ashtongue9
+- 👀 I’m interested in job in IT
+- 🌱 I’m currently learning JAVA
+- 💞️ I’m looking to collaborate on QA Manual / Automation
