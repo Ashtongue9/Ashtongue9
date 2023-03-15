@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Ashtongue9
-- 👀 I’m interested in job in IT
-- 🌱 I’m currently learning MySQL, Postman API
-- 💞️ I’m looking to collaborate on QA Manual / Automation
+- 👀 I’m currenlty working as QA Trainee
+- 🌱 I’m currently learning Python, MySQL, Postman API
